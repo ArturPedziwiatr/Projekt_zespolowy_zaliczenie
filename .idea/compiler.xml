@@ -9,8 +9,5 @@
         <module name="Projekt_zespolowy_zaliczenie" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Projekt_zespolowy_zaliczenie" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
